@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnagramTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-12-12T21:10:50" hostname="ghibulo-ThinkPad-T430" time="0.039">
+  <properties/>
+  <testcase name="doesNotDetectAnagramSubsets" classname="AnagramTest" time="0.03"/>
+  <testcase name="detectsTwoAnagrams" classname="AnagramTest" time="0.004"/>
+  <testcase name="detectsAnagramsCaseInsensitively" classname="AnagramTest" time="0.0"/>
+  <testcase name="doesNotDetectIdenticalUppercasedWordAsAnagram" classname="AnagramTest" time="0.0"/>
+  <testcase name="doesNotDetectNonAnagramsWithIdenticalChecksums" classname="AnagramTest" time="0.0"/>
+  <testcase name="detectsAnagramsUsingCaseInsensitiveCandidates" classname="AnagramTest" time="0.001"/>
+  <testcase name="detectsAnagram" classname="AnagramTest" time="0.0"/>
+  <testcase name="anagramsMustUseAllLettersExactlyOnce" classname="AnagramTest" time="0.0"/>
+  <testcase name="doesNotDetectAnAnagramIfTheOriginalWordIsRepeated" classname="AnagramTest" time="0.0"/>
+  <testcase name="detectsThreeAnagrams" classname="AnagramTest" time="0.0"/>
+  <testcase name="detectsAnagramsUsingCaseInsensitiveSubject" classname="AnagramTest" time="0.0"/>
+  <testcase name="noMatches" classname="AnagramTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
