@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HammingTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2018-12-11T17:02:05" hostname="ghibulo-ThinkPad-T430" time="0.04">
+<testsuite name="HammingTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2018-12-14T22:48:50" hostname="ghibulo-ThinkPad-T430" time="0.049">
   <properties/>
-  <testcase name="noDistanceBetweenEmptyStrands" classname="HammingTest" time="0.022"/>
+  <testcase name="noDistanceBetweenEmptyStrands" classname="HammingTest" time="0.029"/>
   <testcase name="validatesSecondStrandNotLonger" classname="HammingTest" time="0.01"/>
   <testcase name="smallDistanceInLongStrand" classname="HammingTest" time="0.001"/>
   <testcase name="sameNucleotidesInDifferentPositions" classname="HammingTest" time="0.0"/>
   <testcase name="completeDistanceInSingleNucleotideStrand" classname="HammingTest" time="0.0"/>
-  <testcase name="noDistanceBetweenLongIdenticalStrands" classname="HammingTest" time="0.0"/>
+  <testcase name="noDistanceBetweenLongIdenticalStrands" classname="HammingTest" time="0.001"/>
   <testcase name="noDistanceBetweenShortIdenticalStrands" classname="HammingTest" time="0.0"/>
   <testcase name="smallDistanceInMediumStrand" classname="HammingTest" time="0.0"/>
-  <testcase name="largeDistanceInOffByOneStrand" classname="HammingTest" time="0.0"/>
+  <testcase name="largeDistanceInOffByOneStrand" classname="HammingTest" time="0.001"/>
   <testcase name="largeDistanceInPermutedStrand" classname="HammingTest" time="0.0"/>
   <testcase name="validatesFirstStrandNotLonger" classname="HammingTest" time="0.0"/>
   <testcase name="completeDistanceInSmallStrand" classname="HammingTest" time="0.0"/>
-  <testcase name="nonUniqueCharacterInFirstStrand" classname="HammingTest" time="0.0"/>
+  <testcase name="nonUniqueCharacterInFirstStrand" classname="HammingTest" time="0.001"/>
   <testcase name="smallDistanceInSmallStrand" classname="HammingTest" time="0.0"/>
-  <testcase name="nonUniqueCharacterInSecondStrand" classname="HammingTest" time="0.0"/>
+  <testcase name="nonUniqueCharacterInSecondStrand" classname="HammingTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
