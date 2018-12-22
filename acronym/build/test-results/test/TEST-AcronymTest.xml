@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AcronymTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2018-12-15T21:36:42" hostname="ghibulo-ThinkPad-T430" time="0.03">
+  <properties/>
+  <testcase name="fromTitleCasedPhrases" classname="AcronymTest" time="0.026"/>
+  <testcase name="fromPhrasesWithPunctuationAndSentenceCasing" classname="AcronymTest" time="0.0"/>
+  <testcase name="fromNonAcronymAllCapsWord" classname="AcronymTest" time="0.0"/>
+  <testcase name="fromConsecutiveDelimiters" classname="AcronymTest" time="0.0"/>
+  <testcase name="fromOtherTitleCasedPhrases" classname="AcronymTest" time="0.0"/>
+  <testcase name="fromVeryLongAbbreviation" classname="AcronymTest" time="0.001"/>
+  <testcase name="fromPhrasesWithPunctuation" classname="AcronymTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeriesTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2018-12-20T15:12:54" hostname="ghibulo-ThinkPad-T430" time="0.037">
+  <properties/>
+  <testcase name="findsTheLargestProductOf3WithNumbersInOrder" classname="SeriesTest" time="0.025"/>
+  <testcase name="reports1ForEmptyStringAndEmptyProduct" classname="SeriesTest" time="0.0"/>
+  <testcase name="rejectsEmptyStringAndNonZeroSpan" classname="SeriesTest" time="0.001"/>
+  <testcase name="findsTheLargestProductOf2WithNumbersInOrder" classname="SeriesTest" time="0.001"/>
+  <testcase name="rejectsInvalidCharacterInDigits" classname="SeriesTest" time="0.001"/>
+  <testcase name="rejectsNegativeSpan" classname="SeriesTest" time="0.001"/>
+  <testcase name="findsTheLargestProductWithinABigNumber" classname="SeriesTest" time="0.002"/>
+  <testcase name="reports0IfAllSpansInclude0" classname="SeriesTest" time="0.001"/>
+  <testcase name="rejectsSpanLongerThanStringLength" classname="SeriesTest" time="0.0"/>
+  <testcase name="findsTheLargestProductOf5WithNumbersInOrder" classname="SeriesTest" time="0.001"/>
+  <testcase name="findsTheLargestProductIfSpanEqualsLength" classname="SeriesTest" time="0.0"/>
+  <testcase name="reports1ForNonEmptyStringAndEmptyProduct" classname="SeriesTest" time="0.0"/>
+  <testcase name="findsTheLargestProductOf2" classname="SeriesTest" time="0.001"/>
+  <testcase name="findsTheLargestProductOf3" classname="SeriesTest" time="0.001"/>
+  <testcase name="reports0IfAllDigitsAre0" classname="SeriesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
