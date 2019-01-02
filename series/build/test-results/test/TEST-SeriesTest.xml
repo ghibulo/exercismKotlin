@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SeriesTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-01-01T22:34:26" hostname="LennyT430" time="0.052">
+  <properties/>
+  <testcase name="slicesOfOne" classname="SeriesTest" time="0.051"/>
+  <testcase name="slicesOfTwo" classname="SeriesTest" time="0.001"/>
+  <testcase name="slicesOfThree" classname="SeriesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
